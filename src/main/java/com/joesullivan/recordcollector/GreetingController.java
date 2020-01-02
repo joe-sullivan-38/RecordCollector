@@ -1,4 +1,4 @@
-package com.joesullivan.recordcolletor;
+package com.joesullivan.recordcollector;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

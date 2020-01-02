@@ -1,4 +1,4 @@
-package com.joesullivan.recordcolletor;
+package com.joesullivan.recordcollector;
 
 public class Greeting {
 
