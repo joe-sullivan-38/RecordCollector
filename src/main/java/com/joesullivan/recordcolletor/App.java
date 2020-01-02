@@ -1,4 +1,4 @@
-package com.joesullivan.recordcollertor;
+package com.joesullivan.recordcolletor;
 
 /**
  * Hello world!

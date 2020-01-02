@@ -1,4 +1,4 @@
-package com.joesullivan.recordcollertor;
+package com.joesullivan.recordcolletor;
 
 import static org.junit.Assert.assertTrue;
 
